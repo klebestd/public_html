@@ -1,0 +1,964 @@
+[07-May-2025 09:10:25 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:26 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:29 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:10:30 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:12 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:12 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:11:12 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:12 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:11:16 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:12:06 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:12:06 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:12:06 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:12:06 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:12:11 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/calcinhapreta-dois-amoresduas-paixoes-0f5793e4.mp3
+[07-May-2025 09:12:11 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:12:11 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:12:11 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/aaaa.mp3
+[07-May-2025 09:12:34 America/Sao_Paulo] Iniciando lista_playlists.php
+[07-May-2025 09:12:34 America/Sao_Paulo] Playlists carregadas: 3 registros
+[07-May-2025 09:12:41 America/Sao_Paulo] Iniciando edit_playlist.php
+[07-May-2025 09:12:41 America/Sao_Paulo] Playlist carregada: ID=29, Nome=01
+[07-May-2025 09:12:41 America/Sao_Paulo] Arquivos associados carregados: 15 registros
+[07-May-2025 09:12:41 America/Sao_Paulo] Músicas disponíveis carregadas: 9 registros
+[07-May-2025 09:12:41 America/Sao_Paulo] Comerciais disponíveis carregados: 9 registros
+[07-May-2025 09:15:00 America/Sao_Paulo] Iniciando edit_playlist.php
+[07-May-2025 09:15:00 America/Sao_Paulo] Playlist carregada: ID=29, Nome=01
+[07-May-2025 09:15:00 America/Sao_Paulo] Arquivos associados carregados: 15 registros
+[07-May-2025 09:15:00 America/Sao_Paulo] Músicas disponíveis carregadas: 9 registros
+[07-May-2025 09:15:00 America/Sao_Paulo] Comerciais disponíveis carregados: 9 registros
+[07-May-2025 09:15:00 America/Sao_Paulo] Arquivos selecionados recebidos: ["63","70","64","71","65","72","66","73","67","74","68","75","69","76","63","77","64","78"]
+[07-May-2025 09:15:00 America/Sao_Paulo] Playlist atualizada: ID=29, Nome=01
+[07-May-2025 09:15:00 America/Sao_Paulo] Associações antigas removidas para playlist ID=29
+[07-May-2025 09:15:00 America/Sao_Paulo] Novas associações adicionadas: 18 arquivos
+[07-May-2025 09:15:00 America/Sao_Paulo] Caminhos recuperados para .m3u: ["\/uploads\/musicas\/musica 1.mp3","\/uploads\/comerciais\/comercial 1.mp3","\/uploads\/musicas\/musica 2.mp3","\/uploads\/comerciais\/comercial 2.mp3","\/uploads\/musicas\/musica 3.mp3","\/uploads\/comerciais\/comercial 3.mp3","\/uploads\/musicas\/musica 4.mp3","\/uploads\/comerciais\/comercial 4.mp3","\/uploads\/musicas\/musica 5.mp3","\/uploads\/comerciais\/comercial 5.mp3","\/uploads\/musicas\/musica 6.mp3","\/uploads\/comerciais\/comercial 6.mp3","\/uploads\/musicas\/musica 7.mp3","\/uploads\/comerciais\/comercial 7.mp3","\/uploads\/musicas\/musica 1.mp3","\/uploads\/comerciais\/comercial 8.mp3","\/uploads\/musicas\/musica 2.mp3","\/uploads\/comerciais\/comercial 9.mp3"]
+[07-May-2025 09:15:00 America/Sao_Paulo] Arquivo .m3u atualizado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u
+[07-May-2025 09:15:00 America/Sao_Paulo] Arquivo active.m3u removido antes de atualizar: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u
+[07-May-2025 09:15:00 America/Sao_Paulo] Arquivo active.m3u atualizado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u
+[07-May-2025 09:15:00 America/Sao_Paulo] Edição da playlist concluída: ID=29
+[07-May-2025 09:15:05 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:05 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:07 America/Sao_Paulo] Stream: Streaming parado.
+[07-May-2025 09:15:07 America/Sao_Paulo] Stream: Streaming parado.
+[07-May-2025 09:15:08 America/Sao_Paulo] Stream: Streaming parado.
+[07-May-2025 09:15:09 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:09 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:09 America/Sao_Paulo] Stream: Arquivo de playlist não encontrado ou vazio: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Iniciando play em 2025-05-07 09:15:10, dia: qua, horário: 09:15:10
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Playlist programada encontrada: ID=29, Nome=01, Caminho=/home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u: #EXTM3U
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:10 America/Sao_Paulo] Stream: Streaming iniciado com playlist: ID=29, Nome=01, Caminho=/home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Iniciando play em 2025-05-07 09:15:11, dia: qua, horário: 09:15:11
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Playlist programada encontrada: ID=29, Nome=01, Caminho=/home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u: #EXTM3U
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo válido encontrado em playlist: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Streaming iniciado com playlist: ID=29, Nome=01, Caminho=/home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/01_29.m3u
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:11 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:13 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:13 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:16 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:25 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:25 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:25 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:25 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:29 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:15:29 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:29 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:29 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:37 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:37 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:37 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:37 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:42 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:15:43 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:43 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:43 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:51 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:51 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:51 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:51 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:54 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:15:54 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:54 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:54 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:56 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:56 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:56 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:56 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:59 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:15:59 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:15:59 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:15:59 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:16:04 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:16:04 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:04 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:04 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:09 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:16:09 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:09 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:09 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:14 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:14 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:14 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:14 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:18 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:16:18 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:18 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:18 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:22 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:22 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:22 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:22 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:25 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:16:25 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:25 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:25 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:27 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:27 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:27 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:27 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:30 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:16:30 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:30 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:30 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:38 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:38 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:38 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:38 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:41 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:16:41 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:41 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:41 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:43 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:43 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:43 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:16:43 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:16:47 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:16:47 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:47 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:16:47 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:16:59 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:16:59 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:16:59 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:16:59 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:17:07 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:17:07 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:07 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:17:07 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:17:18 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:17:18 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:18 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:17:18 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:17:24 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:17:24 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:24 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:24 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:32 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:32 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:32 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:17:32 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:17:37 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:17:37 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:37 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:17:37 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:17:45 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:17:45 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:45 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:17:45 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:17:50 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:17:50 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:50 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:50 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:57 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:17:57 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:17:57 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:17:57 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:18:14 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:18:14 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:14 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:18:14 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:18:20 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:18:20 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:20 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:18:20 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:18:25 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:18:25 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:25 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:18:25 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:18:32 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:18:32 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:32 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:18:32 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:18:40 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:18:40 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:40 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:18:40 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:18:49 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:18:49 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:49 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:18:49 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:18:54 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:18:54 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:18:54 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:18:54 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:19:07 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:19:07 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:07 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:19:07 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:19:12 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:19:12 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:12 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:19:12 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:19:24 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:19:24 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:24 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:19:24 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:19:28 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:19:28 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:28 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:19:28 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:19:39 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:19:39 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:39 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:19:39 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:19:44 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:19:44 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:44 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:19:44 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:19:54 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:19:54 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:54 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:19:54 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:19:59 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:19:59 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:19:59 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:19:59 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:20:09 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:20:09 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:20:09 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:20:09 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:20:15 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:20:15 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:20:15 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:20:15 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:20:40 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:20:40 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:20:40 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:20:40 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:20:57 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:20:57 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:20:57 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:20:57 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:21:35 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:21:38 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:21:38 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:21:38 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:21:38 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:22:20 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:22:20 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:22:20 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:22:20 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:22:46 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:22:46 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:22:46 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:22:46 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 08:29:40 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:29:40 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:29:40 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:29:40 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:29:40 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:29:40 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 09:30:19 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:30:19 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:30:35 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:30:35 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:30:35 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:30:35 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:30:48 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:30:48 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:30:48 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:30:48 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:30:59 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:30:59 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:30:59 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:30:59 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 08:31:08 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:31:08 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:31:08 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:31:08 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:31:08 America/New_York] PHP Warning:  Undefined array key "data_c_criacao" in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 08:31:08 America/New_York] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/reports.php on line 139
+[07-May-2025 09:31:27 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:31:27 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:31:27 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:31:27 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:31:37 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:31:37 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:31:37 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:31:37 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:31:52 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:31:52 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:31:52 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:31:52 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:32:01 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:32:01 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:32:01 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:32:01 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:32:17 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:32:17 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:32:17 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:32:17 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:32:22 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:32:22 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:32:22 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:32:22 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:32:30 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:32:30 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:32:30 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:32:30 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:35:17 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:35:27 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:35:27 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:35:27 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:35:27 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:35:35 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:35:35 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:35:35 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:35:35 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:35:40 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:35:40 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:35:40 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:35:40 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:35:48 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:35:48 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:35:48 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:35:48 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:36:05 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:36:05 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:05 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:36:05 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:36:12 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:36:12 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:12 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:36:12 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:36:18 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:36:18 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:18 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:36:18 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:36:25 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:36:25 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:25 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:36:25 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:36:36 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:36:36 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:36 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:36:36 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:36:50 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:36:50 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:50 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:36:50 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:36:56 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:36:56 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:36:56 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:36:56 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:37:14 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:37:14 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:14 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:37:14 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:37:19 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:37:19 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:19 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:37:19 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:37:31 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:37:31 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:31 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:37:31 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:37:35 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:37:35 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:35 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:37:35 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:37:46 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:37:46 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:46 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:37:46 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:37:52 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:37:52 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:37:52 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:37:52 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:38:00 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:38:00 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:00 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:38:00 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:38:05 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:38:05 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:05 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:05 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:13 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:13 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:13 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:38:13 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:38:18 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:38:18 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:18 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:38:18 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:38:26 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:38:26 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:26 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:38:26 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:38:37 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:38:37 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:37 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:37 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:45 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:38:45 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:45 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:38:45 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:38:50 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:38:50 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:50 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:38:50 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:38:57 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:38:57 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:38:57 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:38:57 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:39:06 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:39:06 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:06 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:39:06 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:39:14 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:39:14 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:14 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:39:14 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:39:19 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:39:19 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:19 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:39:19 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:39:31 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:39:31 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:31 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:39:31 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:39:36 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:39:36 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:36 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:39:36 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:39:47 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:39:47 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:47 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:39:47 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:39:52 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:39:52 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:39:52 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:39:52 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:40:03 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:40:03 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:40:03 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:40:03 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:40:10 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:40:10 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:40:10 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:40:10 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:40:19 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:40:19 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:40:19 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:40:19 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:40:24 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:40:24 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:40:24 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:40:24 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:40:58 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:40:58 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:40:58 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:40:58 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:41:04 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:41:04 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:41:04 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:41:04 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:43:56 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:44:08 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:44:08 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:08 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:44:08 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:44:09 America/Sao_Paulo] Iniciando lista_playlists.php
+[07-May-2025 09:44:09 America/Sao_Paulo] Playlists carregadas: 3 registros
+[07-May-2025 09:44:20 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:44:20 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:20 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:44:20 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:44:27 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:44:27 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:27 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:44:27 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:44:32 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:44:32 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:32 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:44:32 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:44:38 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:44:38 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:38 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:44:38 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:44:45 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:44:45 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:45 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:44:45 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:44:53 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:44:53 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:44:53 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:44:53 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:47:30 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:47:35 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[07-May-2025 09:47:35 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[07-May-2025 09:47:35 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[07-May-2025 09:47:35 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:27 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:28 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:46 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:49 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:49 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:49 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:49 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:51 America/Sao_Paulo] Iniciando lista_playlists.php
+[09-May-2025 00:38:51 America/Sao_Paulo] Playlists carregadas: 3 registros
+[09-May-2025 00:38:54 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:54 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:57 America/Sao_Paulo] Iniciando lista_playlists.php
+[09-May-2025 00:38:57 America/Sao_Paulo] Playlists carregadas: 3 registros
+[09-May-2025 00:38:59 America/Sao_Paulo] Iniciando edit_playlist.php
+[09-May-2025 00:38:59 America/Sao_Paulo] Playlist carregada: ID=29, Nome=01
+[09-May-2025 00:38:59 America/Sao_Paulo] Arquivos associados carregados: 18 registros
+[09-May-2025 00:38:59 America/Sao_Paulo] Músicas disponíveis carregadas: 9 registros
+[09-May-2025 00:38:59 America/Sao_Paulo] Comerciais disponíveis carregados: 9 registros
+[09-May-2025 00:38:59 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:38:59 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:38:59 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:38:59 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:39:07 America/Sao_Paulo] Iniciando edit_playlist.php
+[09-May-2025 00:39:07 America/Sao_Paulo] Playlist carregada: ID=29, Nome=01
+[09-May-2025 00:39:07 America/Sao_Paulo] Arquivos associados carregados: 18 registros
+[09-May-2025 00:39:07 America/Sao_Paulo] Músicas disponíveis carregadas: 9 registros
+[09-May-2025 00:39:07 America/Sao_Paulo] Comerciais disponíveis carregados: 9 registros
+[09-May-2025 00:39:08 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:39:08 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:08 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:08 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:20 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:24 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:24 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:24 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:24 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:25 America/Sao_Paulo] Index: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Ignorando linha inválida em /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/includes/../playlists/active.m3u: #EXTM3U
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 1.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 2.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 3.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 3.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 4.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 4.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 5.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 5.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 6.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 2.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo de áudio válido adicionado: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 9.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:26 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:28 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:28 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:28 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:28 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:31 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 6.mp3
+[09-May-2025 00:39:31 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:31 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:31 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:31 America/Sao_Paulo] Iniciando lista_playlists.php
+[09-May-2025 00:39:31 America/Sao_Paulo] Playlists carregadas: 3 registros
+[09-May-2025 00:39:33 America/Sao_Paulo] Iniciando edit_playlist.php
+[09-May-2025 00:39:33 America/Sao_Paulo] Playlist carregada: ID=29, Nome=01
+[09-May-2025 00:39:33 America/Sao_Paulo] Arquivos associados carregados: 18 registros
+[09-May-2025 00:39:33 America/Sao_Paulo] Músicas disponíveis carregadas: 9 registros
+[09-May-2025 00:39:33 America/Sao_Paulo] Comerciais disponíveis carregados: 9 registros
+[09-May-2025 00:39:40 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 7.mp3
+[09-May-2025 00:39:40 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:40 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:39:40 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:39:46 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 7.mp3
+[09-May-2025 00:39:46 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:46 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:46 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:55 America/Sao_Paulo] Stream: Arquivo transmitido com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/musicas/musica 1.mp3
+[09-May-2025 00:39:55 America/Sao_Paulo] Stream: Playlist ativa encontrada: ID=29, Nome=01
+[09-May-2025 00:39:55 America/Sao_Paulo] Stream: Tentando transmitir arquivo: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
+[09-May-2025 00:39:55 America/Sao_Paulo] Stream: Arquivo aberto com sucesso: /home/zfgwmhfz/domains/webradiogratis.x10.mx/public_html/uploads/comerciais/comercial 8.mp3
